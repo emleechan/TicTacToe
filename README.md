@@ -4,6 +4,7 @@
 Needs:
 - out of bounds detection
 - scalability
+- use classes lol
  
  
  i think i did ok for 30 mins??
